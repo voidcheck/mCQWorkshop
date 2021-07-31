@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuizQuestion xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuizQuestion>
+    <Question>What is the capital of India</Question>
+    <Answers>
+      <string>Kolkata</string>
+      <string>Gurgaon</string>
+      <string>Delhi</string>
+      <string>Mumbai</string>
+    </Answers>
+    <CorrectAnswer>1</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+  <QuizQuestion>
+    <Question>What are the natural numbers?</Question>
+    <Answers>
+      <string>All Numbers</string>
+      <string>0-10</string>
+      <string>0-100</string>
+      <string>All Positive Numbers</string>
+    </Answers>
+    <CorrectAnswer>3</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+  <QuizQuestion>
+    <Question>What is the color of Sky?</Question>
+    <Answers>
+      <string>Red</string>
+      <string>Green</string>
+      <string>Blue</string>
+      <string>White</string>
+    </Answers>
+    <CorrectAnswer>2</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+  <QuizQuestion>
+    <Question>Who is India's Prime minister?</Question>
+    <Answers>
+      <string>Naredra Modi</string>
+      <string>Manmohan Singh</string>
+      <string>Digvijay Singh</string>
+      <string>Amit Shah</string>
+    </Answers>
+    <CorrectAnswer>1</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+  <QuizQuestion>
+    <Question>Who is the lead actor in John wick?</Question>
+    <Answers>
+      <string>Tom holland</string>
+      <string>Robert Downey</string>
+      <string>Kneau Revees</string>
+      <string>Chris Evans</string>
+    </Answers>
+    <CorrectAnswer>2</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+</ArrayOfQuizQuestion>
