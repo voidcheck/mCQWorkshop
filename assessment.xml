@@ -8,7 +8,7 @@
       <string>Delhi</string>
       <string>Mumbai</string>
     </Answers>
-    <CorrectAnswer>1</CorrectAnswer>
+    <CorrectAnswer>3</CorrectAnswer>
     <Asked>false</Asked>
   </QuizQuestion>
   <QuizQuestion>
@@ -30,7 +30,7 @@
       <string>Blue</string>
       <string>White</string>
     </Answers>
-    <CorrectAnswer>2</CorrectAnswer>
+    <CorrectAnswer>3</CorrectAnswer>
     <Asked>false</Asked>
   </QuizQuestion>
   <QuizQuestion>
@@ -49,7 +49,7 @@
     <Answers>
       <string>Tom holland</string>
       <string>Robert Downey</string>
-      <string>Kneau Revees</string>
+      <string>Keanu Revees</string>
       <string>Chris Evans</string>
     </Answers>
     <CorrectAnswer>2</CorrectAnswer>
