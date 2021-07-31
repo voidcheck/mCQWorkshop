@@ -4,7 +4,7 @@
     const submitButton = document.getElementById('submit');
 
     const _xmlreq =  new XMLHttpRequest();
-    _xmlreq.open('GET','http://localhost:3000/xmlFile', false);
+    _xmlreq.open('GET','http://167.71.43.172:8081/xmlFile', false);
     _xmlreq.onreadystatechange = () => {
         let parser = new DOMParser();
         let xmlDoc = parser.parseFromString(_xmlreq.responseText,"text/xml");
